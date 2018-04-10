@@ -35,6 +35,8 @@ class Extractor {
     }
 
     static extractComments(code, options) {
+        options.filename = options.filename || "abc.js";
+        options.filename = options.filename + ".js";
         return extractComments(code, options);
     }
 
