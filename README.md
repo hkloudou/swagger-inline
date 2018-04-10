@@ -1,16 +1,21 @@
-# swagger-inline
+# swagger-inline-hkloudoufix
+
+- Fork From https://github.com/readmeio/swagger-inline/
+- Fix Some Bug
 
 Node module for extracting swagger endpoints from inline comments.
 
 ## Install
 
 ```
-npm install --save-dev swagger-inline
+npm install --save-dev swagger-inline-hkloudoufix
 ```
 
+
 ```
-sudo npm install -g git://github.com/hkloudou/swagger-inline.git#0.1.0
+sudo npm install -g swagger-inline-hkloudoufix
 ```
+
 
 ## Build
 ```bash
