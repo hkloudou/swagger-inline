@@ -8,6 +8,10 @@ Node module for extracting swagger endpoints from inline comments.
 npm install --save-dev swagger-inline
 ```
 
+```
+sudo npm install -g git://github.com/hkloudou/swagger-inline.git#0.1.0
+```
+
 ## Build
 ```bash
 npm run build # single build

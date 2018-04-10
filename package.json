@@ -1,5 +1,5 @@
 {
-  "name": "swagger-inline",
+  "name": "swagger-inline-hkloudoufix",
   "version": "0.0.8",
   "description": "Generate your swagger files from inline swagger comments.",
   "main": "build/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/readmeio/swagger-inline.git"
+    "url": "git+ssh://git@github.com/hkloudou/swagger-inline.git"
   },
   "keywords": [
     "swagger",
@@ -23,12 +23,12 @@
     "inline",
     "comments"
   ],
-  "author": "Readme.io",
+  "author": "hkloudou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/readmeio/swagger-inline/issues"
+    "url": "https://github.com/hkloudou/swagger-inline/issues"
   },
-  "homepage": "https://github.com/readmeio/swagger-inline#readme",
+  "homepage": "https://github.com/hkloudou/swagger-inline#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.24.0",
     "bluebird": "^3.4.1",
